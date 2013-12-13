@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the '20131209_LibaryModelObjects' target in the '20131209_LibaryModelObjects' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
